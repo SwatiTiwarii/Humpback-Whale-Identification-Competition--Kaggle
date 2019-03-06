@@ -1,4 +1,3 @@
-#Humpback Whale Identification Challenge
 
 The code in this repo contains my solution approach for kaggle competition: https://www.kaggle.com/c/humpback-whale-identification
 
